@@ -1,0 +1,106 @@
+body{
+  background-color: #000000;
+}
+
+.main-div {
+  display: flex !important;
+  justify-content: center !important;
+  margin-top: 50px;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fav-cus {
+  margin : 2px;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+}
+
+.describe-span {
+  font-size: 20px;
+  margin: 2px;
+  color: white;
+}
+
+.pokemon-img {
+  width: 200px;
+  height: 200px;
+  border: 10 px solid black;
+}
+
+.container {
+  background-color: black;
+  color: white;
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 500px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: flex;
+  box-shadow: 1px 1px 6px 1px rgb(154, 150, 150);
+}
+
+input {
+  width: 800px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 8px 20px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  box-shadow: 1px 1px 4px 2px rgb(154, 150, 150);
+  border-radius: 10px;
+}
+
+.input-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.pokie-name {
+  margin-left: 30px;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.pokie-main-detail {
+  margin-left: 40px;
+}
+
+.pokie-card {
+  box-shadow: 1px 1px 5px 1px rgb(154, 150, 150);
+  width: 200px;
+}
+
+.skill-head {
+  margin-left: 80px;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.pokie-stats {
+  margin-left: 50px;
+}
+
+.skill-para {
+  font-size: 20px;
+}
+
+.pokie-loader {
+  height: 450px;
+  width: 600px;
+  margin-left: 480px;
+  margin-top: 50px;
+}
