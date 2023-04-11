@@ -1,4 +1,4 @@
-# Meal App
+# Rock-Paper-Scissor Game App
 
 ### Output : 
 ![webpage](./public/assets/homepage.jpg)

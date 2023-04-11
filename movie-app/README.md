@@ -1,4 +1,4 @@
-# Meal App
+# Movie App
 
 ### Output : 
 ![webpage](./public/assets/homepage.jpg)
