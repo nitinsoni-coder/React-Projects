@@ -10,7 +10,7 @@
 ## [Github](https://github.com/nitinsoni-coder/React-Projects/tree/main/The%20Meal%20DB)
 <br/>
 
-# **Pokemon App **
+# **Pokemon App**
 ## [Github](https://github.com/nitinsoni-coder/React-Projects/tree/main/pokemon-app)
 <br/>
 
