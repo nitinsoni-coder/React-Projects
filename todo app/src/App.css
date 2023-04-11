@@ -1,0 +1,96 @@
+body {
+  background-color: #f1f4fb;
+}
+.App {
+  position: absolute;
+  top: 50px;
+  left: 320px;
+}
+
+input {
+  height: 50px;
+  width: 800px;
+  font-size: 16px;
+}
+
+input::placeholder {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.add-btn {
+  padding: 12px 16px;
+  background-color: #0f0e17;
+  color: white;
+  cursor: pointer;
+}
+
+.add-todo-form {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.todo-card {
+  width: 900px;
+  padding: 10px 20px;
+  background-color: rgba(247, 201, 162, 0.577);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.action-btn {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+i {
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.red {
+  color: rgb(210, 32, 32);
+}
+
+.update-input {
+  height: 30px;
+  width: 600px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.update-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.update-btn {
+  border-radius: 10px;
+  background-color: rgb(245, 206, 134);
+}
+
+.updated-input {
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.updated-input form input {
+  border-radius: 10px;
+}
+
+.updated-input form button {
+  border-radius: 10px;
+  padding: 10px 20px;
+  background-color: rgb(255, 162, 0);
+}
+
+h1 {
+  margin-left: 320px;
+  margin-bottom: 20px;
+}
